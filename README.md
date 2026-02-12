@@ -31,7 +31,7 @@ Perform a baseline security audit on Ubuntu using Lynis, apply hardening actions
 ## Evidence
 - `baseline/` includes initial audit logs and report
 - `post-hardening/` includes final audit logs and report
-- `summary-diff.txt` shows improvements between audits
+
 
 ## Key Takeaways
 - Lynis provides a structured methodology for Linux hardening.
